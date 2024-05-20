@@ -1,5 +1,4 @@
-
-THE STOPWATCH WEB APPLICATION
+#THE STOPWATCH WEB APPLICATION
 
 A minimalistic stopwatch web application built with HTML, CSS, and JavaScript. This project demonstrates the basic functionality of a stopwatch, including start, stop, and reset features.
 
