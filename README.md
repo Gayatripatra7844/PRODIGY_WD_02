@@ -5,21 +5,21 @@ A minimalistic stopwatch web application built with HTML, CSS, and JavaScript. T
 
 Features:
 
-Start/Stop: Toggle the stopwatch to start or stop the time counting.
+1.Start/Stop: Toggle the stopwatch to start or stop the time counting.
 
-Reset: Reset the stopwatch to zero.
+2.Reset: Reset the stopwatch to zero.
 
-Lap Time: Record the lap times with a single click.
+3.Lap Time: Record the lap times with a single click.
 
-Time Display: Shows the elapsed time in hours, minutes, seconds, and milliseconds.
+4.Time Display: Shows the elapsed time in hours, minutes, seconds, and milliseconds.
 
  Technologies Used:
  
- HTML: For structuring the content of the application.
+ 1.HTML: For structuring the content of the application.
  
- CSS: For styling and making the stopwatch visually appealing.
+ 2.CSS: For styling and making the stopwatch visually appealing.
  
- JavaScript: For adding interactivity to the stopwatch buttons and the time display.
+ 3.JavaScript: For adding interactivity to the stopwatch buttons and the time display.
 
  How to Use:
  1. Clone the repository to your local machine.
