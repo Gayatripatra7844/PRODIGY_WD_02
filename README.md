@@ -19,3 +19,5 @@ A minimalistic stopwatch web application built with HTML, CSS, and JavaScript. T
 3. Use the buttons provided to start, stop, and reset the stopwatch as needed.
 
 Feel free to fork this repository and contribute to improving the functionality of this simple stopwatch application.
+## you can view the live review here:
+https://gayatripatra7844.github.io/PRODIGY_WD_02/
