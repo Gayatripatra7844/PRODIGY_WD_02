@@ -3,7 +3,7 @@ THE STOPWATCH WEB APPLICATION
 
 A minimalistic stopwatch web application built with HTML, CSS, and JavaScript. This project demonstrates the basic functionality of a stopwatch, including start, stop, and reset features.
 
-Features:
+FEATURES:
 
 1.Start/Stop: Toggle the stopwatch to start or stop the time counting.
 
@@ -13,7 +13,7 @@ Features:
 
 4.Time Display: Shows the elapsed time in hours, minutes, seconds, and milliseconds.
 
- Technologies Used:
+ TECHNOLOGIES USED:
  
  1.HTML: For structuring the content of the application.
  
@@ -21,7 +21,7 @@ Features:
  
  3.JavaScript: For adding interactivity to the stopwatch buttons and the time display.
 
- How to Use:
+ HOW TO USE:
  1. Clone the repository to your local machine.
 2. Open the index.html file in a web browser to view the stopwatch.
 3. Use the buttons provided to start, stop, and reset the stopwatch as needed.
