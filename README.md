@@ -1,10 +1,10 @@
 # PRODIGY_WD_02
 THE STOPWATCH WEB APPLICATION
-Simple Stopwatch
 
 A minimalistic stopwatch web application built with HTML, CSS, and JavaScript. This project demonstrates the basic functionality of a stopwatch, including start, stop, and reset features.
 
 Features:
+
 Start/Stop: Toggle the stopwatch to start or stop the time counting.
 Reset: Reset the stopwatch to zero.
 Lap Time: Record the lap times with a single click.
